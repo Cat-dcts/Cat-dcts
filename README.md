@@ -5,7 +5,7 @@
 - 📫 How to reach me cathy.descoutures@etu.unilim.fr
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm cool
-- 
+  
 I am in the first year of computer goal. For the past year, therefore, I have acquired computer skills, in different languages such as C, Python, Java, HTML, SQL.
 In the future, as soon as I graduate, I will deepen my knowledge in computer engineering school.
 
